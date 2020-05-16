@@ -1,0 +1,240 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+04/26/2020,"Oatmeal, Oats, Old Fashioned, Dry",Oatmeal,Breakfast,0.25,Cup,75,0,1.50,2.50,13.50,0.25,0.50,2,0,0
+04/26/2020,"Strawberries, Medium, 1 1/4""",Strawberry,Breakfast,4.0,Each,15,0,0.14,0.32,3.69,0,2.35,0.96,0,0.48
+04/26/2020,"Sugar, Brown, Light",SugarBrown,Breakfast,0.5,Teaspoon,8,0,0,0,2,0,2,0,0,0
+04/26/2020,kinako,Default,Breakfast,1.0,Teaspoon,12,0,1.17,1.67,1.67,0,0.67,0.67,0,0
+04/26/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+04/26/2020,"Bread, Long Italian",WhiteBread,Lunch,1.55,Ounces,93,0,0,2.33,18.60,0,0,0,0,201.50
+04/26/2020,Mary's Gone Crackers,Cracker,Lunch,8.0,Pieces,86,0,3.8,1.85,12.92,0.31,0,1.85,0,116.92
+04/26/2020,"Cucumber, Persian Organic",Cucumber,Lunch,2.5,Each,13,0,0,0,2.22,n/a,n/a,1.11,n/a,n/a
+04/26/2020,"Tomatoes, Fresh, Medium",Tomato,Lunch,1.5,Each,33,0,0.37,1.62,7.23,0.4,4.85,2.21,0,9.22
+04/26/2020,Nduja,DeliMeat,Lunch,0.6,Ounce,109,0,10.33,3.4,0.61,3.64,n/a,n/a,15.19,249.7
+04/26/2020,"Cheese, Cabrales (cow milk)",Cheese,Lunch,0.75,Ounce,78,0,6.38,4.96,0.71,3.54,0,0,21.26,141.75
+04/26/2020,Jonagold Apple,Apple,Lunch,3.8,Ounces,38,0,0,0.48,16.15,0,11.88,2.38,0,0
+04/26/2020,Bulgarian Yogurt,Yogurt,Lunch,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+04/26/2020,"Orange, Medium",Orange,Lunch,0.5,Each,31,0,0.8,0.62,7.70,0.1,6.12,1.57,0,0
+04/26/2020,Prickly Pear,Fig,Lunch,1.0,Tablespoon,4,0,0.5,0.7,0.89,0.1,0,0.34,0,0.47
+04/26/2020,"Sugar, Granulated",SugarWhite,Lunch,0.5,Tablespoon,24,0,0,0,6.30,0,6.29,0,0,0.6
+04/26/2020,Raw Mixed Nuts,MixedNuts,Dinner,0.33,Cup,98,0,8.46,3.25,3.90,0.98,0.65,1.30,0,0
+04/26/2020,Marys Gone Crackers GF,Cracker,Dinner,7.0,Pieces,75,0,2.69,1.62,11.31,0.27,n/a,1.62,n/a,102.31
+04/26/2020,Amontillado sherry,WineWhite,Dinner,1.0,Ounce,32,0,0,0,0,0,n/a,0,0.50,0
+04/26/2020,"Gin, 80 Proof",Alcohol,Dinner,1.0,Fluid ounce,64,0,0,0,0,0,0,0,0,0.28
+04/26/2020,"Egg, Large",Egg,Dinner,2.0,Each,143,0,9.51,12.56,0.72,3.13,0.37,0,372,142
+04/26/2020,"Soup, Miso",Soup,Dinner,0.3,Cup,21,0,0.60,1.50,2.70,0.12,0,0.90,0,216.30
+04/26/2020,Daikon Radish Kimchi,Radish,Dinner,0.25,Cup,6,0,0.6,0.30,1.37,0.1,0.56,0.43,0,122.33
+04/26/2020,Korean Pancake Mix,Pancakes,Dinner,100.0,Grams,333,0,0,10,76.67,0,0,0,0,633.33
+04/26/2020,"Oil, Canola",Oil,Dinner,1.0,Tablespoon,120,0,14,0,0,1,0,0,0,0
+04/26/2020,Clementines,Orange,Snacks,2.0,Pieces,80,0,1,2,20,0,14,4,0,2
+04/26/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Snacks,1.0,Serving,120,0,1,24,3,0.50,1,0,30,60
+04/26/2020,Puffed Kamut,Cereal,Snacks,0.5,Cup,25,0,0,1.50,5.50,n/a,0,n/a,n/a,n/a
+04/26/2020,"Guava, Whole",Guava,Snacks,0.66,Each,25,0,0.34,0.93,5.20,0.10,3.24,1.96,0,0.73
+04/26/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+04/25/2020,Ya Pear,Pear,Breakfast,1.5,Servings,77,0,0,1.50,19.50,0,13.50,6,0,0
+04/25/2020,"Strawberries, Medium, 1 1/4""",Strawberry,Breakfast,4.0,Each,15,0,0.14,0.32,3.69,0,2.35,0.96,0,0.48
+04/25/2020,"Flour, all purpose unbleached, by weight",Grain,Lunch,100.0,Grams,367,0,0,13.33,76.67,0,0,3.33,0,0
+04/25/2020,Jjajang 04/25/2020,Recipe,Lunch,1.0,Serving,208,0,11.4,16.38,11.37,3.56,7.53,3.68,46.67,77.19
+04/25/2020,"Cucumber, Persian Organic",Cucumber,Lunch,3.0,Each,16,0,0,0,2.67,n/a,n/a,1.33,n/a,n/a
+04/25/2020,Daikon Radish Kimchi,Radish,Lunch,0.25,Cup,6,0,0.6,0.30,1.37,0.1,0.56,0.43,0,122.33
+04/25/2020,Marys Gone Crackers GF,Cracker,Dinner,7.0,Pieces,75,0,2.69,1.62,11.31,0.27,n/a,1.62,n/a,102.31
+04/25/2020,"Apple, Large",Apple,Dinner,1.0,Each,116,0,0.38,0.58,30.80,0.4,23.17,5.35,0,2.23
+04/25/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Dinner,1.0,Each,37,0,0.36,1.18,7.18,0.2,5,2.50,0,4.76
+04/25/2020,"Cucumber, Persian Organic",Cucumber,Dinner,4.5,Each,24,0,0,0,4,n/a,n/a,2,n/a,n/a
+04/25/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.0,Teaspoon,40,0,4.50,0,0,0.67,0,0,0,0
+04/25/2020,"Cheese, Cabrales (cow milk)",Cheese,Dinner,1.0,Ounce,104,0,8.50,6.61,0.94,4.72,0,0,28.35,189
+04/25/2020,"Cheese, Italian, Pecorino Romano, Grated or Shredded",Cheese,Dinner,1.0,Ounce,111,0,8.10,7.9,0,7.9,0,0,30.37,556.87
+04/25/2020,"Carrots, Chopped",Carrot,Dinner,0.5,Cup,26,0,0.15,0.60,6.13,0.2,3.3,1.79,0,44.16
+04/25/2020,"Stock, Chicken, Prep from Recipe",Soup,Dinner,1.0,Cup,86,0,2.88,6.5,8.47,0.77,3.79,0,7.20,343.20
+04/25/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.25,Each,7,0,0.2,0.19,1.63,0.1,0.74,0.30,0,0.70
+04/25/2020,Leeks,Leeks,Dinner,0.25,Each,14,0,0.7,0.33,3.15,0.1,0.87,0.40,0,4.45
+04/25/2020,"Pancetta, Uncured",Bacon,Dinner,0.66,Ounce,67,0,6.1,2.67,0,2.67,n/a,n/a,13.36,307.39
+04/25/2020,"Lentils, Green, Petite French, Dried",Peas,Dinner,0.175,Cup,112,0,0,8.40,20.30,0,1.40,4.90,0,10.50
+04/25/2020,Celery Root,Celery,Dinner,0.25,Cup,16,0,0.12,0.59,3.59,0.3,0.62,0.70,0,39
+04/25/2020,"Tomatoes, Fresh, Medium",Tomato,Dinner,1.5,Each,33,0,0.37,1.62,7.23,0.4,4.85,2.21,0,9.22
+04/25/2020,Clementines,Orange,Snacks,2.0,Pieces,80,0,1,2,20,0,14,4,0,2
+04/25/2020,Glutinous Rice Flour,RiceCake,Snacks,0.5,Cup,220,0,0,4,48,0,0,0,0,0
+04/25/2020,kinako,Default,Snacks,0.5,Tablespoon,18,0,1.75,2.50,2.50,0,1,1,0,0
+04/25/2020,D'Anjou pear,Pear,Snacks,5.0,Ounces,84,0,0.19,0.51,22.35,0.6,14.5,4.53,0,1.47
+04/25/2020,"Honey, Amber",Honey,Snacks,1.0,Teaspoon,21,0,0,0.2,5.77,0,5.75,0.1,0,0.28
+04/25/2020,"Gin, 80 Proof",Alcohol,Snacks,1.0,Fluid ounce,64,0,0,0,0,0,0,0,0,0.28
+04/25/2020,Amontillado sherry,WineWhite,Snacks,1.0,Ounce,32,0,0,0,0,0,n/a,0,0.50,0
+04/25/2020,"Guava, Whole",Guava,Snacks,0.5,Each,19,0,0.26,0.70,3.94,0.7,2.45,1.49,0,0.55
+04/25/2020,Ghiardelli,Chocolate,Snacks,1.0,Piece,47,0,2.67,0.33,6,1.67,4.67,0.67,1.50,21.67
+04/25/2020,Extra Dark Chocolate Chips,ChocolateChips,Snacks,15.0,Grams,80,0,5,1,8,3,6,3,0,0
+04/24/2020,Jonagold Apple,Apple,Breakfast,7.5,Ounces,75,0,0,0.94,31.88,0,23.44,4.69,0,0
+04/24/2020,Stawberries,Strawberry,Breakfast,4.0,Each,43,0,0,0.19,1.68,0,1.12,0.37,0,0
+04/24/2020,"Onion, Yellow, Whole, Small",Onion,Lunch,0.5,Each,14,0,0.4,0.39,3.27,0.1,1.48,0.60,0,1.40
+04/24/2020,"Stock, Chicken, Prep from Recipe",Soup,Lunch,1.0,Cup,86,0,2.88,6.5,8.47,0.77,3.79,0,7.20,343.20
+04/24/2020,Celery Root,Celery,Lunch,0.25,Cup,16,0,0.12,0.59,3.59,0.3,0.62,0.70,0,39
+04/24/2020,"Pancetta, Uncured",Bacon,Lunch,0.66,Ounce,67,0,6.1,2.67,0,2.67,n/a,n/a,13.36,307.39
+04/24/2020,"Lentils, Green, Petite French, Dried",Peas,Lunch,0.175,Cup,112,0,0,8.40,20.30,0,1.40,4.90,0,10.50
+04/24/2020,Leeks,Leeks,Lunch,0.25,Each,14,0,0.7,0.33,3.15,0.1,0.87,0.40,0,4.45
+04/24/2020,"Carrots, Chopped",Carrot,Lunch,0.5,Cup,26,0,0.15,0.60,6.13,0.2,3.3,1.79,0,44.16
+04/24/2020,Mary's Gone Crackers,Cracker,Lunch,9.0,Pieces,97,0,3.46,2.8,14.54,0.35,0,2.8,0,131.54
+04/24/2020,"Cheese, Cabrales (cow milk)",Cheese,Lunch,0.5,Ounce,52,0,4.25,3.31,0.47,2.36,0,0,14.17,94.50
+04/24/2020,"Cheese, Italian, Pecorino Romano, Grated or Shredded",Cheese,Lunch,0.5,Ounce,56,0,4.5,3.54,0,3.54,0,0,15.19,278.43
+04/24/2020,Nduja,DeliMeat,Lunch,0.55,Ounce,100,0,9.47,2.78,0.56,3.34,n/a,n/a,13.92,228.31
+04/24/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+04/24/2020,Green Cabbage,Cabbage,Lunch,0.166,Each,52,0,0,2.8,10.38,0,6.22,4.15,0,41.50
+04/24/2020,"Brisket, Beef, Sliced, 4 oz",Beef,Dinner,1.5,Each,495,0,33,48,3,13.50,1.50,0,175.50,1053
+04/24/2020,"Bread, White",Toast,Dinner,2.5,Slices,150,0,1.25,5,32.50,0,5,0,0,325
+04/24/2020,"Salad, Potato, Homemade",Default,Dinner,0.5,Cup,179,0,10.25,3.35,13.96,1.77,0,1.63,85,661.25
+04/24/2020,Clementines,Orange,Snacks,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+04/24/2020,"Guava, Whole",Guava,Snacks,2.0,Each,75,0,1.4,2.81,15.75,0.30,9.81,5.94,0,2.20
+04/24/2020,Prickly Pear,Fig,Snacks,0.25,Cup,15,0,0.19,0.27,3.56,0.2,0,1.34,0,1.86
+04/24/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+04/24/2020,Ya Pear,Pear,Snacks,1.0,Serving,51,0,0,1,13,0,9,4,0,0
+04/24/2020,"Strawberries, Medium, 1 1/4""",Strawberry,Snacks,3.0,Each,12,0,0.11,0.24,2.76,0,1.76,0.72,0,0.36
+04/24/2020,Ghiardelli,Chocolate,Snacks,2.0,Pieces,93,0,5.33,0.67,12,3.33,9.33,1.33,3,43.33
+04/23/2020,"Opal Apple, Large",Apple,Breakfast,3.7,Ounces,55,0,0.16,0.29,14.48,n/a,10.90,2.51,n/a,1.23
+04/23/2020,Baked rice cake bar,Recipe,Breakfast,2.0,Servings,227,0,6.65,5.20,37.11,1.6,16.29,1.30,1.56,27.12
+04/23/2020,"Sugar, Granulated",SugarWhite,Lunch,0.5,Tablespoon,24,0,0,0,6.30,0,6.29,0,0,0.6
+04/23/2020,"Sauce, Green Curry Paste",Sauce,Lunch,0.5,Tablespoon,5,0,0,0,1.50,0,0,0,0,250
+04/23/2020,"Chicken, Breast, Raw, Skinless, Boneless",Chicken,Lunch,7.0,Ounces,238,0,5.20,44.65,0,1.12,0,0,144.87,89.30
+04/23/2020,"Bamboo Shoots, Slices",Bamboo,Lunch,0.1666,Cup,7,0,0.8,0.65,1.31,0.2,0.75,0.55,0,1.1
+04/23/2020,Rice Basmati Cooked,Rice,Lunch,0.5,Cup,96,0,0,1.48,13.31,n/a,n/a,n/a,0,0
+04/23/2020,"Sugar, Granulated",SugarWhite,Lunch,0.33,Tablespoon,16,0,0,0,4.16,0,4.15,0,0,0.4
+04/23/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Lunch,0.33,Each,12,0,0.12,0.39,2.37,0.1,1.65,0.82,0,1.57
+04/23/2020,"Eggplant, Cubes",Eggplant,Lunch,0.5,Cup,10,0,0.8,0.41,2.34,0.1,0.96,1.39,0,0.82
+04/23/2020,"Coconut Milk, Unsweetened",Milk,Lunch,0.25,Cup,11,0,0.99,0,0.12,0.86,0.12,0,0,8.63
+04/23/2020,"Bread, Long Italian",WhiteBread,Dinner,0.9,Ounce,54,0,0,1.35,10.80,0,0,0,0,117
+04/23/2020,"Egg, Large",Egg,Dinner,1.0,Each,72,0,4.75,6.28,0.36,1.56,0.19,0,186,71
+04/23/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,1.75,Each,49,0,0.12,1.35,11.44,0.5,5.19,2.8,0,4.90
+04/23/2020,Green Cabbage,Cabbage,Dinner,0.2,Each,62,0,0,2.50,12.50,0,7.50,5,0,50
+04/23/2020,"Butter, Unsalted, Stick",Butter,Dinner,0.5,Tablespoon,50,0,5.50,0,0,3.50,0,0,15,0
+04/23/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+04/23/2020,"Mushrooms, Brown",Mushroom,Dinner,2.0,Cups,38,0,0.17,4.35,7.48,0.2,2.99,1.4,0,10.44
+04/23/2020,"Cheese, Cabrales (cow milk)",Cheese,Dinner,0.5,Ounce,52,0,4.25,3.31,0.47,2.36,0,0,14.17,94.50
+04/23/2020,Manchego Cheese,Cheese,Dinner,0.9,Ounce,82,0,6.38,6.38,0,4.56,0,0,18.22,136.69
+04/23/2020,Mary's Gone Crackers,Cracker,Dinner,5.0,Pieces,54,0,1.92,1.15,8.8,0.19,0,1.15,0,73.8
+04/23/2020,Clementines,Orange,Snacks,2.0,Pieces,80,0,1,2,20,0,14,4,0,2
+04/23/2020,Protein powder rice cake bars,Recipe,Snacks,3.0,Servings,276,0,9.42,10.33,37.76,1.26,15.15,1.95,5.63,36.92
+04/23/2020,Baked rice cake bar,Recipe,Snacks,1.0,Serving,114,0,3.33,2.60,18.56,0.53,8.14,0.65,0.78,13.56
+04/23/2020,"Guava, Whole",Guava,Snacks,1.0,Each,37,0,0.52,1.40,7.88,0.15,4.91,2.97,0,1.10
+04/23/2020,Bulgarian Yogurt,Yogurt,Snacks,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+04/23/2020,"Orange, Medium",Orange,Snacks,0.5,Each,31,0,0.8,0.62,7.70,0.1,6.12,1.57,0,0
+04/23/2020,"Sugar, Granulated",SugarWhite,Snacks,0.33,Tablespoon,16,0,0,0,4.16,0,4.15,0,0,0.4
+04/22/2020,"Opal Apple, Large",Apple,Breakfast,4.0,Ounces,59,0,0.18,0.31,15.65,n/a,11.78,2.71,n/a,1.33
+04/22/2020,Clementines,Orange,Breakfast,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+04/22/2020,"Eggplant, Cubes",Eggplant,Lunch,0.5,Cup,10,0,0.8,0.41,2.34,0.1,0.96,1.39,0,0.82
+04/22/2020,"Coconut Milk, Unsweetened",Milk,Lunch,0.25,Cup,11,0,0.99,0,0.12,0.86,0.12,0,0,8.63
+04/22/2020,"Sugar, Granulated",SugarWhite,Lunch,0.5,Tablespoon,24,0,0,0,6.30,0,6.29,0,0,0.6
+04/22/2020,"Bamboo Shoots, Slices",Bamboo,Lunch,0.1666,Cup,7,0,0.8,0.65,1.31,0.2,0.75,0.55,0,1.1
+04/22/2020,"Sauce, Green Curry Paste",Sauce,Lunch,0.5,Tablespoon,5,0,0,0,1.50,0,0,0,0,250
+04/22/2020,"Chicken, Breast, Raw, Skinless, Boneless",Chicken,Lunch,7.0,Ounces,238,0,5.20,44.65,0,1.12,0,0,144.87,89.30
+04/22/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Lunch,0.33,Each,12,0,0.12,0.39,2.37,0.1,1.65,0.82,0,1.57
+04/22/2020,Rice Basmati Cooked,Rice,Lunch,0.5,Cup,96,0,0,1.48,13.31,n/a,n/a,n/a,0,0
+04/22/2020,"Sugar, Granulated",SugarWhite,Lunch,0.5,Tablespoon,24,0,0,0,6.30,0,6.29,0,0,0.6
+04/22/2020,Bulgarian Yogurt,Yogurt,Lunch,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+04/22/2020,"Orange, Medium",Orange,Lunch,0.5,Each,31,0,0.8,0.62,7.70,0.1,6.12,1.57,0,0
+04/22/2020,"Flour, Masa Harina, Golden",Corn,Dinner,0.5,Cup,200,0,2,6,42,0,0,4,0,0
+04/22/2020,"Avocado, Hass, Medium",Avocado,Dinner,0.5,Each,120,0,10,1,6,2,1,5,0,0
+04/22/2020,"Tomatoes, Fresh, Medium",Tomato,Dinner,0.5,Each,11,0,0.12,0.54,2.41,0.1,1.62,0.74,0,3.8
+04/22/2020,Nduja,DeliMeat,Dinner,0.55,Ounce,100,0,9.47,2.78,0.56,3.34,n/a,n/a,13.92,228.31
+04/22/2020,"Egg, Large",Egg,Dinner,2.0,Each,143,0,9.51,12.56,0.72,3.13,0.37,0,372,142
+04/22/2020,"Butter, Unsalted, Stick",Butter,Dinner,0.5,Tablespoon,50,0,5.50,0,0,3.50,0,0,15,0
+04/22/2020,"Shallot, Raw",Shallot,Dinner,2.0,Tablespoons,14,0,0.2,0.50,3.36,0,0,0,0,2.40
+04/22/2020,"Mushrooms, Brown",Mushroom,Dinner,2.0,Cups,38,0,0.17,4.35,7.48,0.2,2.99,1.4,0,10.44
+04/22/2020,"Cheese, Cabrales (cow milk)",Cheese,Dinner,0.5,Ounce,52,0,4.25,3.31,0.47,2.36,0,0,14.17,94.50
+04/22/2020,Glutinous Rice Flour,Grain,Dinner,0.3125,Cup,138,0,n/a,2.50,30,n/a,n/a,n/a,n/a,n/a
+04/22/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Dinner,0.125,Serving,15,0,0.13,3,0.38,0.6,0.13,0,3.75,7.50
+04/22/2020,Bulgarian Yogurt,Yogurt,Dinner,0.0625,Cup,9,0,0.50,0.81,0.31,0.28,0.31,0,1.56,10
+04/22/2020,Almonds Raw Whole,Almond,Dinner,0.05,Cup,32,0,2.80,1.20,1.20,0.20,0.20,0.60,0,0
+04/22/2020,"Cashews, Whole, Raw",Cashew,Dinner,0.05,Cup,38,0,3,1.25,2.7,0.53,0.40,0.23,0,0.82
+04/22/2020,Sun Flower Seeds,Seed,Dinner,0.05,Cup,32,0,2.76,1.18,0.99,0.30,0,0.79,0,0
+04/22/2020,"Cranberries, Dried, Sweetened",Cranberry,Dinner,0.5,Tablespoon,12,0,0,0,3.13,0,2.94,0.19,0,0
+04/22/2020,"Orange, Medium",Orange,Dinner,0.3,Each,18,0,0.5,0.37,4.62,0,3.67,0.94,0,0
+04/22/2020,"Sugar, Brown, Light",SugarBrown,Dinner,1.0,Teaspoon,15,0,0,0,4,0,4,0,0,0
+04/22/2020,"Avocado, Hass, Medium",Avocado,Snacks,0.5,Each,120,0,10,1,6,2,1,5,0,0
+04/22/2020,Mary's Gone Crackers,Cracker,Snacks,6.0,Pieces,65,0,2.31,1.38,9.69,0.23,0,1.38,0,87.69
+04/22/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+04/22/2020,Clementines,Orange,Snacks,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+04/22/2020,"Cashews, Whole, Raw",Cashew,Snacks,10.0,Pieces,89,0,7.37,2.63,4.74,1.32,1.5,3.68,0,2.63
+04/21/2020,D'Anjou pear,Pear,Breakfast,4.1,Ounces,69,0,0.16,0.42,18.32,0.5,11.52,3.72,0,1.20
+04/21/2020,Clementines,Orange,Breakfast,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+04/21/2020,Grilled Pork Shoulder,Pork,Lunch,1.75,Ounces,149,0,7,11.67,0,2.33,0,0,39.67,39.67
+04/21/2020,"Pupusa, Spinach & Cheese, by weight",Quesadilla,Lunch,3.25,Ounces,208,0,10.38,9.8,19.47,3.89,1.30,2.60,12.98,298.47
+04/21/2020,"Avocado, Hass, Medium",Avocado,Lunch,0.75,Each,180,0,15,1.50,9,3,1.50,7.50,0,0
+04/21/2020,"Raw Green Cabbage, Shredded",Cabbage,Lunch,2.0,Cups,22,0,0.20,2.20,10.40,0,5.60,4.40,0,32
+04/21/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Lunch,0.33,Each,12,0,0.12,0.39,2.37,0.1,1.65,0.82,0,1.57
+04/21/2020,"Cucumber, Persian Organic",Cucumber,Lunch,2.0,Each,11,0,0,0,1.78,n/a,n/a,0.89,n/a,n/a
+04/21/2020,"Salsa Roja, Medium",Sauce,Lunch,0.3,Cup,12,0,0,0,4.80,0,2.40,0,0,408
+04/21/2020,Large Heirloom Tomato,Tomato,Lunch,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+04/21/2020,"Mushrooms, Brown",Mushroom,Lunch,1.0,Cup,19,0,0.9,2.17,3.74,0.1,1.50,0.52,0,5.22
+04/21/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,0.33,Tablespoon,39,0,4.46,0,0,0.66,0,0,0,0
+04/21/2020,"Shallot, Raw",Shallot,Lunch,2.0,Tablespoons,14,0,0.2,0.50,3.36,0,0,0,0,2.40
+04/21/2020,"Bread, Pita, White, Original",Tortilla,Dinner,2.0,Ounces,146,0,0,4.86,30.78,0,1.62,1.62,0,202.50
+04/21/2020,"Bread, Long Italian",WhiteBread,Dinner,1.0,Ounce,60,0,0,1.50,12,0,0,0,0,130
+04/21/2020,Grilled Pork Shoulder,Pork,Dinner,2.5,Ounces,213,0,10,16.67,0,3.33,0,0,56.67,56.67
+04/21/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.125,Each,4,0,0.1,0.10,0.82,0,0.37,0.15,0,0.35
+04/21/2020,"Stock, Chicken, Prep from Recipe",Soup,Dinner,0.5,Cup,43,0,1.44,3.2,4.24,0.38,1.90,0,3.60,171.60
+04/21/2020,Celery Root,Celery,Dinner,0.2,Cup,13,0,0.9,0.47,2.87,0.2,0.50,0.56,0,31.20
+04/21/2020,Daikon Radish Kimchi,Radish,Dinner,0.25,Cup,6,0,0.6,0.30,1.37,0.1,0.56,0.43,0,122.33
+04/21/2020,"Pancetta, Uncured",Bacon,Dinner,0.5,Ounce,51,0,4.56,2.2,0,2.2,n/a,n/a,10.12,232.87
+04/21/2020,"Lentils, Green, Petite French, Dried",Peas,Dinner,0.175,Cup,112,0,0,8.40,20.30,0,1.40,4.90,0,10.50
+04/21/2020,"Cucumber, Persian Organic",Cucumber,Dinner,1.5,Each,8,0,0,0,1.33,n/a,n/a,0.67,n/a,n/a
+04/21/2020,Leeks,Leeks,Dinner,0.166,Each,9,0,0.4,0.22,2.9,0.1,0.58,0.27,0,2.95
+04/21/2020,"Avocado, Hass, Medium",Avocado,Dinner,0.66,Each,158,0,13.20,1.32,7.92,2.64,1.32,6.60,0,0
+04/21/2020,"Salad Dressing, Real Mayonnaise",Mayonnaise,Dinner,1.0,Teaspoon,32,0,3.59,0,0,0.54,0,0,1.79,25.13
+04/21/2020,Large Heirloom Tomato,Tomato,Dinner,2.5,Each,13,0,0.10,0.45,1.95,n/a,n/a,n/a,n/a,n/a
+04/21/2020,"Carrots, Chopped",Carrot,Dinner,0.5,Cup,26,0,0.15,0.60,6.13,0.2,3.3,1.79,0,44.16
+04/21/2020,Nduja,DeliMeat,Dinner,0.5,Ounce,91,0,8.61,2.53,0.51,3.4,n/a,n/a,12.66,207.56
+04/21/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,0.25,Tablespoon,30,0,3.38,0,0,0.50,0,0,0,0
+04/21/2020,"Cheese, Italian, Pecorino Romano, Grated or Shredded",Cheese,Dinner,0.2,Ounce,22,0,1.62,1.42,0,1.42,0,0,6.7,111.37
+04/21/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Snacks,1.0,Serving,120,0,1,24,3,0.50,1,0,30,60
+04/21/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+04/21/2020,Clementines,Orange,Snacks,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+04/21/2020,"Nuts, Almonds, Lightly Salted, Roasted",Almond,Snacks,12.0,Pieces,35,0,24,9,7,2,2,4,0,130
+04/20/2020,D'Anjou pear,Pear,Breakfast,5.5,Ounces,92,0,0.21,0.56,24.58,0.7,15.45,4.99,0,1.62
+04/20/2020,Clementines,Orange,Breakfast,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+04/20/2020,"Sauce, Green Curry Paste",Sauce,Lunch,0.5,Tablespoon,5,0,0,0,1.50,0,0,0,0,250
+04/20/2020,"Sugar, Granulated",SugarWhite,Lunch,0.5,Tablespoon,24,0,0,0,6.30,0,6.29,0,0,0.6
+04/20/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Lunch,0.33,Each,12,0,0.12,0.39,2.37,0.1,1.65,0.82,0,1.57
+04/20/2020,"Bamboo Shoots, Slices",Bamboo,Lunch,0.1666,Cup,7,0,0.8,0.65,1.31,0.2,0.75,0.55,0,1.1
+04/20/2020,"Chicken, Breast, Raw, Skinless, Boneless",Chicken,Lunch,6.0,Ounces,204,0,4.46,38.27,0,0.96,0,0,124.17,76.54
+04/20/2020,"Coconut Milk, Unsweetened",Milk,Lunch,0.25,Cup,11,0,0.99,0,0.12,0.86,0.12,0,0,8.63
+04/20/2020,"Eggplant, Cubes",Eggplant,Lunch,0.5,Cup,10,0,0.8,0.41,2.34,0.1,0.96,1.39,0,0.82
+04/20/2020,Rice Basmati Cooked,Rice,Lunch,0.5,Cup,96,0,0,1.48,13.31,n/a,n/a,n/a,0,0
+04/20/2020,"Sprouts, Mung Bean, Mature, Cooked",Sprouts,Lunch,1.0,Cup,26,0,0.11,2.52,5.20,0.2,3.52,0.99,0,12.40
+04/20/2020,"Bread, Long Italian",WhiteBread,Dinner,1.95,Ounces,117,0,0,2.92,23.40,0,0,0,0,253.50
+04/20/2020,"Mushrooms, Brown",Mushroom,Dinner,2.0,Cups,38,0,0.17,4.35,7.48,0.2,2.99,1.4,0,10.44
+04/20/2020,"Raw Green Cabbage, Shredded",Cabbage,Dinner,2.0,Cups,22,0,0.20,2.20,10.40,0,5.60,4.40,0,32
+04/20/2020,"Salsa Roja, Medium",Sauce,Dinner,0.33,Cup,13,0,0,0,5.28,0,2.64,0,0,448.80
+04/20/2020,Grilled Pork Shoulder,Pork,Dinner,2.25,Ounces,191,0,9,15,0,3,0,0,51,51
+04/20/2020,"Salad Dressing, Real Mayonnaise",Mayonnaise,Dinner,1.0,Teaspoon,32,0,3.59,0,0,0.54,0,0,1.79,25.13
+04/20/2020,"Cucumber, Persian Organic",Cucumber,Dinner,1.0,Each,5,0,0,0,0.89,n/a,n/a,0.44,n/a,n/a
+04/20/2020,"Carrots, Chopped",Carrot,Dinner,0.25,Cup,13,0,0.8,0.30,3.7,0.1,1.52,0.90,0,22.8
+04/20/2020,"Shallot, Raw",Shallot,Dinner,2.0,Tablespoons,14,0,0.2,0.50,3.36,0,0,0,0,2.40
+04/20/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,0.33,Tablespoon,39,0,4.46,0,0,0.66,0,0,0,0
+04/20/2020,"Butter, Unsalted, Stick",Butter,Dinner,0.33,Tablespoon,33,0,3.63,0,0,2.31,0,0,9.90,0
+04/20/2020,"Avocado, Hass, Medium",Avocado,Dinner,0.33,Each,79,0,6.60,0.66,3.96,1.32,0.66,3.30,0,0
+04/20/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.125,Each,4,0,0.1,0.10,0.82,0,0.37,0.15,0,0.35
+04/20/2020,Daikon Radish Kimchi,Radish,Dinner,0.5,Cup,13,0,0.11,0.59,2.75,0.2,1.12,0.87,0,244.67
+04/20/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+04/20/2020,Celery Root,Celery,Dinner,0.2,Cup,13,0,0.9,0.47,2.87,0.2,0.50,0.56,0,31.20
+04/20/2020,"Carrots, Chopped",Carrot,Dinner,0.5,Cup,26,0,0.15,0.60,6.13,0.2,3.3,1.79,0,44.16
+04/20/2020,"Stock, Chicken, Prep from Recipe",Soup,Dinner,0.66,Cup,57,0,1.90,3.99,5.59,0.51,2.50,0,4.75,226.51
+04/20/2020,"Lentils, Green, Petite French, Dried",Peas,Dinner,0.175,Cup,112,0,0,8.40,20.30,0,1.40,4.90,0,10.50
+04/20/2020,"Pancetta, Uncured",Bacon,Dinner,0.5,Ounce,51,0,4.56,2.2,0,2.2,n/a,n/a,10.12,232.87
+04/20/2020,Leeks,Leeks,Dinner,0.166,Each,9,0,0.4,0.22,2.9,0.1,0.58,0.27,0,2.95
+04/20/2020,D'Anjou pear,Pear,Snacks,4.7,Ounces,79,0,0.18,0.48,21.1,0.6,13.20,4.26,0,1.38
+04/20/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+04/20/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Snacks,1.0,Serving,120,0,1,24,3,0.50,1,0,30,60
+04/20/2020,"Nuts, Almonds, Lightly Salted, Roasted",Almond,Snacks,14.0,Pieces,41,0,28,10.50,8.17,2.33,2.33,4.67,0,151.67
+04/20/2020,Bulgarian Yogurt,Yogurt,Snacks,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+04/20/2020,"Orange, Medium",Orange,Snacks,0.5,Each,31,0,0.8,0.62,7.70,0.1,6.12,1.57,0,0
+04/20/2020,"Sugar, Granulated",SugarWhite,Snacks,0.25,Tablespoon,12,0,0,0,3.15,0,3.14,0,0,0.3
+04/26/2020,Google Fit Workout,GoogleFit,Exercise,29,minutes,235.736,0
+04/26/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,17.2696,0
+04/25/2020,Google Fit Workout,GoogleFit,Exercise,38,minutes,357.55,0
+04/25/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+04/24/2020,Google Fit Workout,GoogleFit,Exercise,107,minutes,764.445,0
+04/24/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,189.912,0
+04/23/2020,Google Fit Workout,GoogleFit,Exercise,29,minutes,238.8,0
+04/23/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+04/22/2020,Google Fit Workout,GoogleFit,Exercise,36,minutes,350.1,0
+04/22/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+04/21/2020,Google Fit Workout,GoogleFit,Exercise,114,minutes,827.741,0
+04/21/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,116.261,0
+04/20/2020,Google Fit Workout,GoogleFit,Exercise,5,minutes,43.0688,0
+04/20/2020,Google Fit Workout,GoogleFit,Exercise,31,minutes,302.021,0
+04/20/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
