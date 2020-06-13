@@ -1,0 +1,176 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+05/24/2020,Carrots Raw,Carrot,Breakfast,3.0,Ounces,34,0,0,1.57,12.60,0,7.87,3.15,0,102.37
+05/24/2020,Basic hummus 5/19/2020,Recipe,Breakfast,2.0,Servings,88,0,3.69,4.39,10.50,0.81,0.50,3.46,0,150
+05/24/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Breakfast,0.5,Each,18,0,0.18,0.59,3.59,0.1,2.50,1.25,0,2.38
+05/24/2020,Red lentil dal,Recipe,Lunch,10.0,Servings,140,0,1.68,9.50,24.43,0.6,3.28,4.91,0,3.68
+05/24/2020,Thai green curry 05/18/20,Recipe,Lunch,12.0,Servings,293,0,11.67,32.3,11.87,7.30,9.20,3.33,99.12,477.86
+05/24/2020,"Raw Green Cabbage, Shredded",Cabbage,Lunch,1.0,Cup,11,0,0.10,1.10,5.20,0,2.80,2.20,0,16
+05/24/2020,"Sugar, Brown, Light",SugarBrown,Lunch,1.0,Teaspoon,15,0,0,0,4,0,4,0,0,0
+05/24/2020,Bulgarian Yogurt,Yogurt,Lunch,0.33,Cup,46,0,2.64,4.29,1.65,1.49,1.65,0,8.25,52.80
+05/24/2020,Orange - Medium,Orange,Lunch,1.0,Serving,69,0,0,1.30,14.50,n/a,n/a,3.10,n/a,n/a
+05/24/2020,Vietnamese pork sandwich (Banh Mi),Sandwich,Dinner,1.0,Serving,579,0,17,25,72,5,2,4,92,575
+05/24/2020,Korean Pancake Mix,Pancakes,Dinner,40.0,Grams,133,0,0,4,30.67,0,0,0,0,253.33
+05/24/2020,"Oil, Canola",Oil,Dinner,0.5,Tablespoon,60,0,7,0,0,0.50,0,0,0,0
+05/24/2020,Scallions,Leeks,Dinner,1.0,Stick,5,0,0,0.30,1.10,0,0.30,0.40,0,2
+05/24/2020,"Tofu, Medium Firm",Tofu,Dinner,4.6,Ounces,107,0,6.14,12.27,0,0.77,0,0,0,0
+05/24/2020,"Oil, Sesame, 100%",Oil,Dinner,0.5,Teaspoon,22,0,2.33,0,0,0.33,0,0,0,0
+05/24/2020,"Raw Green Cabbage, Shredded",Cabbage,Dinner,0.5,Cup,6,0,0.5,0.55,2.60,0,1.40,1.10,0,8
+05/24/2020,"Apple, Small",Apple,Snacks,1.0,Each,54,0,0.40,0.50,15,n/a,9.50,1.50,n/a,n/a
+05/24/2020,"Cheese, Italian, Pecorino Romano, Grated or Shredded",Cheese,Snacks,0.75,Ounce,84,0,6.7,5.32,0,5.32,0,0,22.78,417.65
+05/24/2020,"Cheese, Switzerland Gruyere",Cheese,Snacks,0.25,Ounce,30,0,2.25,2,0,1.50,0,0,6.25,40
+05/24/2020,Green Tea Chocolate,ChocolateChip,Snacks,1.0,Serving,31,0,2.25,0.25,2.33,1.33,1.83,0.17,0.83,1.67
+05/24/2020,Extra Dark Chocolate Chips,ChocolateChips,Snacks,50.0,Grams,267,0,16.67,3.33,26.67,10,20,10,0,0
+05/24/2020,Carrots Raw,Carrot,Snacks,3.6,Ounces,41,0,0,1.89,15.12,0,9.45,3.78,0,122.85
+05/24/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Snacks,0.5,Each,18,0,0.18,0.59,3.59,0.1,2.50,1.25,0,2.38
+05/24/2020,Basic hummus 5/19/2020,Recipe,Snacks,2.0,Servings,88,0,3.69,4.39,10.50,0.81,0.50,3.46,0,150
+05/24/2020,"Pear, Small",Pear,Snacks,1.0,Each,86,0,0.18,0.56,22.88,0.1,14.50,4.59,0,1.48
+05/23/2020,Bulgarian Yogurt,Yogurt,Breakfast,0.33,Cup,46,0,2.64,4.29,1.65,1.49,1.65,0,8.25,52.80
+05/23/2020,Orange - Medium,Orange,Breakfast,1.0,Serving,69,0,0,1.30,14.50,n/a,n/a,3.10,n/a,n/a
+05/23/2020,Red lentil dal,Recipe,Lunch,8.0,Servings,112,0,1.35,7.60,19.55,0.5,2.62,3.93,0,2.95
+05/23/2020,Sweet Potato Japanese Large,Potato,Lunch,6.2,Ounces,155,0,0,6.20,37.20,0,6.20,6.20,0,0
+05/23/2020,Thai green curry 05/18/20,Recipe,Lunch,12.0,Servings,293,0,11.67,32.3,11.87,7.30,9.20,3.33,99.12,477.86
+05/23/2020,D'Anjou pear,Pear,Lunch,6.0,Ounces,100,0,0.23,0.61,26.82,0.8,16.86,5.44,0,1.76
+05/23/2020,"Egg, Large",Egg,Dinner,1.0,Each,72,0,4.75,6.28,0.36,1.56,0.19,0,186,71
+05/23/2020,Soondubu concentrate 05/21/20,Recipe,Dinner,6.0,Servings,348,0,19.48,28.15,12.50,7.56,11.54,0.32,96.72,210.30
+05/23/2020,"Turnips, Cubes",Turnip,Dinner,0.25,Cup,9,0,0.3,0.29,2.9,0,1.24,0.59,0,21.77
+05/23/2020,"Tofu, Medium Firm",Tofu,Dinner,2.6,Ounces,61,0,3.47,6.94,0,0.43,0,0,0,0
+05/23/2020,"Raw Green Cabbage, Shredded",Cabbage,Dinner,1.0,Cup,11,0,0.10,1.10,5.20,0,2.80,2.20,0,16
+05/23/2020,"Ginger, Pickled",Bamboo,Dinner,1.0,Tablespoon,5,0,0,0,0,0,1,0,0,350
+05/23/2020,"Squash, Zucchini, w/ Skin, Large",Zucchini,Dinner,0.25,Each,14,0,0.26,0.98,2.51,0.6,2.2,0.81,0,6.46
+05/23/2020,Fried fish cake,Fish,Dinner,1.55,Ounces,62,0,1.55,3.88,8.53,0,2.33,0,7.75,534.75
+05/23/2020,"Carrots, Chopped",Carrot,Dinner,0.5,Cup,26,0,0.15,0.60,6.13,0.2,3.3,1.79,0,44.16
+05/23/2020,"Squash, Zucchini, w/ Skin, Large",Zucchini,Dinner,0.25,Each,14,0,0.26,0.98,2.51,0.6,2.2,0.81,0,6.46
+05/23/2020,"Mushrooms, Enoki, Sliced",Mushroom,Dinner,0.33,Cup,8,0,0.6,0.57,1.68,0,0.5,0.58,0,0.64
+05/23/2020,Basic hummus 5/19/2020,Recipe,Snacks,1.5,Servings,66,0,2.77,3.29,7.88,0.61,0.38,2.60,0,112.50
+05/23/2020,Carrots Raw,Carrot,Snacks,3.6,Ounces,41,0,0,1.89,15.12,0,9.45,3.78,0,122.85
+05/23/2020,Mung bean sesame ball,Default,Snacks,5.0,Each,600,0,27,10,85,3,25,6.50,n/a,90
+05/23/2020,"Whiskey, 90 Proof",Alcohol,Snacks,0.5,Fluid ounce,37,0,0,0,0,0,0,0,0,0.14
+05/23/2020,"Apple, Small",Apple,Snacks,1.0,Each,54,0,0.40,0.50,15,n/a,9.50,1.50,n/a,n/a
+05/22/2020,Bulgarian Yogurt,Yogurt,Breakfast,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+05/22/2020,"Sugar, Granulated",SugarWhite,Breakfast,1.0,Teaspoon,16,0,0,0,4.20,0,4.19,0,0,0.4
+05/22/2020,Prickly Pear,Fig,Breakfast,0.25,Cup,15,0,0.19,0.27,3.56,0.2,0,1.34,0,1.86
+05/22/2020,Soondubu concentrate 05/21/20,Recipe,Lunch,3.0,Servings,174,0,9.74,14.7,6.25,3.78,5.77,0.16,48.36,105.15
+05/22/2020,Korean Pancake Mix,Pancakes,Lunch,40.0,Grams,133,0,0,4,30.67,0,0,0,0,253.33
+05/22/2020,"Turnips, Cubes",Turnip,Lunch,0.25,Cup,9,0,0.3,0.29,2.9,0,1.24,0.59,0,21.77
+05/22/2020,"Oil, Canola",Oil,Lunch,0.5,Tablespoon,60,0,7,0,0,0.50,0,0,0,0
+05/22/2020,"Tofu, Medium Firm",Tofu,Lunch,2.6,Ounces,61,0,3.47,6.94,0,0.43,0,0,0,0
+05/22/2020,"Ginger, Pickled",Bamboo,Lunch,1.0,Tablespoon,5,0,0,0,0,0,1,0,0,350
+05/22/2020,"Squash, Zucchini, w/ Skin, Large",Zucchini,Lunch,0.25,Each,14,0,0.26,0.98,2.51,0.6,2.2,0.81,0,6.46
+05/22/2020,"Egg, Large",Egg,Lunch,1.0,Each,72,0,4.75,6.28,0.36,1.56,0.19,0,186,71
+05/22/2020,Japanese pickled cucumber,Pickle,Lunch,1.0,Ounce,10,0,0,0,0,0,0.67,0.67,0,123.33
+05/22/2020,"Sauce, Gochujang",Sauce,Lunch,1.0,Tablespoon,45,0,0.50,0.50,10,0,5,0.50,0,350
+05/22/2020,"Raw Green Cabbage, Shredded",Cabbage,Lunch,1.0,Cup,11,0,0.10,1.10,5.20,0,2.80,2.20,0,16
+05/22/2020,Katsuo Fumi Furikake,Baguette,Lunch,0.5,Serving,15,0,0.50,1,1.50,0,14.50,0,2.50,115
+05/22/2020,Shandong Style dried noodles,Pasta,Dinner,1.8,Servings,720,0,0,25.20,149.40,0,3.60,3.60,0,1890
+05/22/2020,"Dumpling, Pork & Cabbage, Boiled",Dumpling,Dinner,5.0,Pieces,273,0,13.50,9.38,32.50,n/a,n/a,4,n/a,n/a
+05/22/2020,Beer Great Lakes Dortmunder,Beer,Dinner,12.0,Fluid ounces,157,0,0,0.85,6.59,0,0,0,0,7.43
+05/22/2020,"Apricots, Fresh, Whole",Peach,Snacks,4.0,Each,67,0,0.55,1.96,15.57,0.3,12.94,2.80,0,1.40
+05/22/2020,"Apple, Small",Apple,Snacks,1.0,Each,54,0,0.40,0.50,15,n/a,9.50,1.50,n/a,n/a
+05/22/2020,Raw Whole Cashews,Cashew,Snacks,0.5,Ounce,90,0,3,1.25,2,0.50,0.50,0.25,1.75,1.25
+05/22/2020,Green Tea Chocolate,ChocolateChip,Snacks,1.0,Serving,31,0,2.25,0.25,2.33,1.33,1.83,0.17,0.83,1.67
+05/22/2020,Basic hummus 5/19/2020,Recipe,Snacks,1.0,Serving,44,0,1.85,2.19,5.25,0.40,0.25,1.73,0,75
+05/22/2020,Carrots Raw,Carrot,Snacks,3.6,Ounces,41,0,0,1.89,15.12,0,9.45,3.78,0,122.85
+05/22/2020,Extra Dark Chocolate Chips,ChocolateChips,Snacks,16.0,Grams,85,0,5.33,1.7,8.53,3.20,6.40,3.20,0,0
+05/21/2020,Bulgarian Yogurt,Yogurt,Breakfast,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+05/21/2020,"Orange, Medium",Orange,Breakfast,0.25,Each,15,0,0.4,0.31,3.85,0,3.6,0.79,0,0
+05/21/2020,"Sugar, Granulated",SugarWhite,Breakfast,1.0,Teaspoon,16,0,0,0,4.20,0,4.19,0,0,0.4
+05/21/2020,Thai green curry 05/18/20,Recipe,Lunch,13.0,Servings,318,0,12.65,34.70,12.86,7.91,9.97,3.61,107.38,517.69
+05/21/2020,Red lentil dal,Recipe,Lunch,8.0,Servings,112,0,1.35,7.60,19.55,0.5,2.62,3.93,0,2.95
+05/21/2020,Sweet Potato Japanese Large,Potato,Lunch,5.85,Ounces,146,0,0,5.85,35.10,0,5.85,5.85,0,0
+05/21/2020,"Cheese, Wedge, Queso, Cotija",Cheese,Lunch,0.37,Ounce,45,0,3.75,2.62,0,2.25,0,0,11.24,179.82
+05/21/2020,"Tofu, Medium Firm",Tofu,Dinner,3.1,Ounces,72,0,4.14,8.27,0,0.52,0,0,0,0
+05/21/2020,Soondubu concentrate 05/21/20,Recipe,Dinner,4.0,Servings,232,0,12.99,18.76,8.34,5.4,7.70,0.21,64.48,140.20
+05/21/2020,Korean Pancake Mix,Pancakes,Dinner,37.0,Grams,123,0,0,3.70,28.37,0,0,0,0,234.33
+05/21/2020,"Oil, Canola",Oil,Dinner,0.5,Tablespoon,60,0,7,0,0,0.50,0,0,0,0
+05/21/2020,"Egg, Large",Egg,Dinner,1.0,Each,72,0,4.75,6.28,0.36,1.56,0.19,0,186,71
+05/21/2020,Japanese pickled cucumber,Pickle,Dinner,1.0,Ounce,10,0,0,0,0,0,0.67,0.67,0,123.33
+05/21/2020,"Ginger, Pickled",Bamboo,Dinner,1.0,Tablespoon,5,0,0,0,0,0,1,0,0,350
+05/21/2020,"Squash, Zucchini, w/ Skin, Large",Zucchini,Dinner,0.25,Each,14,0,0.26,0.98,2.51,0.6,2.2,0.81,0,6.46
+05/21/2020,"Turnips, Cubes",Turnip,Dinner,0.25,Cup,9,0,0.3,0.29,2.9,0,1.24,0.59,0,21.77
+05/21/2020,"Apricots, Fresh, Whole",Peach,Snacks,7.0,Each,118,0,0.96,3.43,27.24,0.5,22.64,4.90,0,2.45
+05/21/2020,Raw Whole Cashews,Cashew,Snacks,0.5,Ounce,90,0,3,1.25,2,0.50,0.50,0.25,1.75,1.25
+05/21/2020,Orange - Medium,Orange,Snacks,1.0,Serving,69,0,0,1.30,14.50,n/a,n/a,3.10,n/a,n/a
+05/21/2020,Carrots Raw,Carrot,Snacks,3.2,Ounces,36,0,0,1.68,13.44,0,8.40,3.36,0,109.20
+05/21/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Snacks,0.5,Each,18,0,0.18,0.59,3.59,0.1,2.50,1.25,0,2.38
+05/21/2020,Basic hummus 5/19/2020,Recipe,Snacks,2.0,Servings,88,0,3.69,4.39,10.50,0.81,0.50,3.46,0,150
+05/21/2020,D'Anjou pear,Pear,Snacks,6.0,Ounces,100,0,0.23,0.61,26.82,0.8,16.86,5.44,0,1.76
+05/21/2020,Green Tea Chocolate,ChocolateChip,Snacks,1.0,Serving,31,0,2.25,0.25,2.33,1.33,1.83,0.17,0.83,1.67
+05/20/2020,"Sugar, Brown, Light",SugarBrown,Breakfast,0.5,Teaspoon,8,0,0,0,2,0,2,0,0,0
+05/20/2020,"Milk, Whole, 3.7%",Milk,Breakfast,0.5,Cup,78,0,4.47,4,5.67,2.77,0,0,17.8,59.78
+05/20/2020,"Strawberries, Large",Strawberry,Breakfast,3.0,Each,17,0,0.16,0.36,4.15,0.1,2.64,1.8,0,0.54
+05/20/2020,"Oatmeal, Oats, Old Fashioned, Dry",Oatmeal,Breakfast,0.25,Cup,75,0,1.50,2.50,13.50,0.25,0.50,2,0,0
+05/20/2020,Olive oil sourdough bread,WhiteBread,Lunch,1.85,Ounces,130,0,2.31,3.70,24.98,0,1.85,17.57,0,222
+05/20/2020,Lamb Bolognese 05/16/20,Recipe,Lunch,13.6,Servings,394,0,31.63,35.41,13.13,11.89,7.36,4.68,131.13,292.8
+05/20/2020,"Cheese, Switzerland Gruyere",Cheese,Lunch,0.4,Ounce,48,0,3.60,3.20,0,2.40,0,0,10,64
+05/20/2020,"Butter, Unsalted, Stick",Butter,Lunch,1.0,Teaspoon,33,0,3.67,0,0,2.33,0,0,10,0
+05/20/2020,Crema de queso cabrales,Cheese,Lunch,0.6,Ounce,73,0,6.80,2.74,0.20,4.63,0.19,n/a,n/a,0.58
+05/20/2020,Red lentil dal,Recipe,Dinner,6.0,Servings,84,0,1.1,5.70,14.66,0.4,1.97,2.95,0,2.21
+05/20/2020,Raw Whole Cashews,Cashew,Dinner,0.5,Ounce,90,0,3,1.25,2,0.50,0.50,0.25,1.75,1.25
+05/20/2020,Thai green curry 05/18/20,Recipe,Dinner,15.0,Servings,366,0,14.59,40.4,14.83,9.12,11.50,4.16,123.90,597.33
+05/20/2020,Crema de queso cabrales,Cheese,Dinner,1.0,Ounce,122,0,11.34,4.56,0.34,7.71,0.31,n/a,n/a,0.96
+05/20/2020,Olive oil sourdough bread,WhiteBread,Dinner,1.9,Ounces,133,0,2.38,3.80,25.65,0,1.90,18.5,0,228
+05/20/2020,"Cheese, Switzerland Gruyere",Cheese,Dinner,0.4,Ounce,48,0,3.60,3.20,0,2.40,0,0,10,64
+05/20/2020,Basic hummus 5/19/2020,Recipe,Dinner,1.0,Serving,44,0,1.85,2.19,5.25,0.40,0.25,1.73,0,75
+05/20/2020,"Carrots, Chopped",Carrot,Dinner,0.5,Cup,26,0,0.15,0.60,6.13,0.2,3.3,1.79,0,44.16
+05/20/2020,"Peppers, Bell, Red, Medium, 2 3/4"" x 2 1/2""",BellPepperRed,Dinner,0.5,Each,18,0,0.18,0.59,3.59,0.1,2.50,1.25,0,2.38
+05/20/2020,"Cheese, Italian, Pecorino Romano, Grated or Shredded",Cheese,Snacks,0.3,Ounce,33,0,2.43,2.13,0,2.13,0,0,9.11,167.6
+05/20/2020,"Apricots, Fresh, Whole",Peach,Snacks,3.0,Each,50,0,0.41,1.47,11.68,0.2,9.70,2.10,0,1.5
+05/20/2020,"Apple, Small",Apple,Snacks,1.0,Each,54,0,0.40,0.50,15,n/a,9.50,1.50,n/a,n/a
+05/20/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+05/20/2020,Orange - Medium,Orange,Snacks,1.0,Serving,69,0,0,1.30,14.50,n/a,n/a,3.10,n/a,n/a
+05/19/2020,"Milk, Whole, 3.7%",Milk,Breakfast,0.4,Cup,62,0,3.57,3.20,4.54,2.22,0,0,13.66,47.82
+05/19/2020,"Oatmeal, Oats, Old Fashioned, Dry",Oatmeal,Breakfast,0.25,Cup,75,0,1.50,2.50,13.50,0.25,0.50,2,0,0
+05/19/2020,"Sugar, Brown, Light",SugarBrown,Breakfast,0.5,Teaspoon,8,0,0,0,2,0,2,0,0,0
+05/19/2020,"Strawberries, Large",Strawberry,Breakfast,3.0,Each,17,0,0.16,0.36,4.15,0.1,2.64,1.8,0,0.54
+05/19/2020,Lamb Bolognese 05/16/20,Recipe,Lunch,12.0,Servings,347,0,27.91,31.24,11.59,10.49,6.50,4.13,115.71,257.72
+05/19/2020,"Cheese, Italian, Pecorino Romano, Grated or Shredded",Cheese,Lunch,0.2,Ounce,22,0,1.62,1.42,0,1.42,0,0,6.7,111.37
+05/19/2020,"Green Beans, Steamed",SnapBean,Lunch,1.0,Cup,62,0,0,1.80,7,0,2,3.40,0,6
+05/19/2020,Olive oil sourdough bread,WhiteBread,Lunch,2.05,Ounces,144,0,2.56,4.10,27.68,0,2.5,19.48,0,246
+05/19/2020,"Cheese, Switzerland Gruyere",Cheese,Lunch,0.55,Ounce,66,0,4.95,4.40,0,3.30,0,0,13.75,88
+05/19/2020,"Butter, Unsalted, Stick",Butter,Lunch,1.0,Teaspoon,33,0,3.67,0,0,2.33,0,0,10,0
+05/19/2020,"Tomatoes, Fresh, Medium",Tomato,Lunch,0.5,Each,11,0,0.12,0.54,2.41,0.1,1.62,0.74,0,3.8
+05/19/2020,"Sugar, Granulated",SugarWhite,Lunch,0.5,Teaspoon,8,0,0,0,2.10,0,2.10,0,0,0.2
+05/19/2020,"Taco, Lengua",Taco,Dinner,1.0,Each,140,0,6,8,13,2,n/a,n/a,n/a,110
+05/19/2020,"Taco, Al Pastor",Taco,Dinner,1.0,Each,150,0,7,8,14,2.50,n/a,n/a,n/a,210
+05/19/2020,"Taco, Al Pastor",Taco,Dinner,1.0,Each,150,0,7,8,14,2.50,n/a,n/a,n/a,210
+05/19/2020,Red lentil dal,Recipe,Dinner,6.05,Servings,84,0,1.2,5.75,14.78,0.4,1.98,2.97,0,2.23
+05/19/2020,Olive oil sourdough bread,WhiteBread,Dinner,3.1,Ounces,217,0,3.88,6.20,41.85,0,3.10,29.45,0,372
+05/19/2020,"Jam, Apricot",Jam,Dinner,2.0,Tablespoons,97,0,0.8,0.28,25.76,0,17.36,0.12,0,16
+05/19/2020,"Apricots, Fresh, Whole",Peach,Snacks,3.0,Each,50,0,0.41,1.47,11.68,0.2,9.70,2.10,0,1.5
+05/19/2020,Andes Candy,Chocolate,Snacks,1.0,Piece,25,0,1.63,n/a,2.75,1.38,2.50,0.6,0,2.50
+05/19/2020,"Strawberries, Large",Strawberry,Snacks,1.0,Each,6,0,0.5,0.12,1.38,0,0.88,0.36,0,0.18
+05/18/2020,"Oatmeal, Oats, Old Fashioned, Dry",Oatmeal,Breakfast,0.25,Cup,75,0,1.50,2.50,13.50,0.25,0.50,2,0,0
+05/18/2020,"Milk, Whole, 3.7%",Milk,Breakfast,0.4,Cup,62,0,3.57,3.20,4.54,2.22,0,0,13.66,47.82
+05/18/2020,Extra Dark Chocolate Chips,ChocolateChips,Breakfast,5.0,Grams,27,0,1.67,0.33,2.67,1,2,1,0,0
+05/18/2020,Rigatoni,Pasta,Lunch,1.25,Ounces,124,0,0,5.60,24.87,0,1.24,1.24,0,0
+05/18/2020,Lamb Bolognese 05/16/20,Recipe,Lunch,12.0,Servings,347,0,27.91,31.24,11.59,10.49,6.50,4.13,115.71,257.72
+05/18/2020,"Green Beans, Steamed",SnapBean,Lunch,1.0,Cup,62,0,0,1.80,7,0,2,3.40,0,6
+05/18/2020,Sweet Potato Japanese Large,Potato,Lunch,3.75,Ounces,94,0,0,3.75,22.50,0,3.75,3.75,0,0
+05/18/2020,Red lentil dal,Recipe,Dinner,9.0,Servings,126,0,1.51,8.55,21.99,0.5,2.95,4.42,0,3.31
+05/18/2020,Thai green curry 05/18/20,Recipe,Dinner,15.0,Servings,366,0,14.59,40.4,14.83,9.12,11.50,4.16,123.90,597.33
+05/18/2020,Sweet Potato Japanese Large,Potato,Dinner,5.5,Ounces,138,0,0,5.50,33,0,5.50,5.50,0,0
+05/18/2020,Olive oil sourdough bread,WhiteBread,Dinner,0.8,Ounce,56,0,1,1.60,10.80,0,0.80,7.60,0,96
+05/18/2020,Cashews,Cashew,Snacks,5.0,Pieces,45,0,3.50,1.50,2.35,0.75,0.50,0.25,0,0.85
+05/18/2020,Raw Whole Cashews,Cashew,Snacks,9.0,Grams,57,0,1.90,0.79,1.27,0.32,0.32,0.16,1.11,0.79
+05/18/2020,Bulgarian Yogurt,Yogurt,Snacks,0.5,Cup,70,0,4,6.50,2.50,2.25,2.50,0,12.50,80
+05/18/2020,"Sugar, Granulated",SugarWhite,Snacks,1.0,Teaspoon,16,0,0,0,4.20,0,4.19,0,0,0.4
+05/18/2020,"Apricots, Fresh, Whole",Peach,Snacks,5.0,Each,84,0,0.68,2.45,19.46,0.4,16.17,3.50,0,1.75
+05/18/2020,"Strawberries, Medium, 1 1/4""",Strawberry,Snacks,5.0,Each,19,0,0.18,0.40,4.61,0.1,2.93,1.20,0,0.60
+05/24/2020,Google Fit Workout,GoogleFit,Exercise,139,minutes,590.027,0
+05/24/2020,Google Fit Workout,GoogleFit,Exercise,40,minutes,282.824,0
+05/24/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+05/23/2020,Google Fit Workout,GoogleFit,Exercise,68,minutes,562.806,0
+05/23/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+05/22/2020,Google Fit Workout,GoogleFit,Exercise,54,minutes,256.648,0
+05/22/2020,Google Fit Workout,GoogleFit,Exercise,34,minutes,162.268,0
+05/22/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+05/21/2020,Google Fit Workout,GoogleFit,Exercise,34,minutes,239.673,0
+05/21/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+05/20/2020,Google Fit Workout,GoogleFit,Exercise,23,minutes,110.444,0
+05/20/2020,Google Fit Workout,GoogleFit,Exercise,60,minutes,492.148,0
+05/20/2020,Google Fit Workout,GoogleFit,Exercise,15,minutes,71.5123,0
+05/20/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+05/19/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+05/18/2020,Google Fit Workout,GoogleFit,Exercise,38,minutes,273.226,0
+05/18/2020,Google Fit Workout,GoogleFit,Exercise,5,minutes,42.1837,0
+05/18/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0

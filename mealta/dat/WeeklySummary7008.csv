@@ -1,0 +1,185 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+03/15/2020,Clementines,Orange,Breakfast,2.0,Pieces,80,0,1,2,20,0,14,4,0,2
+03/15/2020,Street Tacos Yellow Corn Tortillas,Tortilla,Lunch,3.0,Pieces,90,0,1,2,19,n/a,2,2,0,20
+03/15/2020,"Beef, Chorizo",Beef,Lunch,2.4,Ounces,301,0,29.16,6.80,2.92,13.61,0.97,0,92.34,592.91
+03/15/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,0.5,Tablespoon,60,0,6.75,0,0,1,0,0,0,0
+03/15/2020,"Egg, Large",Egg,Lunch,2.0,Each,143,0,9.51,12.56,0.72,3.13,0.37,0,372,142
+03/15/2020,"Broccoli, Chopped, Steamed",Broccoli,Lunch,1.0,Cup,55,0,0.64,3.71,11.20,0.11,2.17,5.15,0,63.96
+03/15/2020,Cojita Cheese,Cheese,Lunch,0.5,Ounce,25,0,2,1.75,0,n/a,n/a,n/a,n/a,n/a
+03/15/2020,Tahini,SpiceYellow,Lunch,1.0,Tablespoon,90,0,8,3.50,1.50,1.25,1,0.50,0,35
+03/15/2020,"Onion, White, Chopped, Cooked",Onion,Lunch,1.0,Tablespoon,6,0,0.2,0.18,1.33,0,0.62,0.18,0,0.39
+03/15/2020,"Rice, Wild, Cooked",Rice,Dinner,0.75,Cup,141,0,0.47,5.57,29.77,0.6,1.2,2.51,0,4.18
+03/15/2020,"Oil, Sesame, 100%",Oil,Dinner,0.25,Teaspoon,11,0,1.17,0,0,0.17,0,0,0,0
+03/15/2020,Daikon Radish Kimchi,Radish,Dinner,0.5,Cup,13,0,0.11,0.59,2.75,0.2,1.12,0.87,0,244.67
+03/15/2020,"Tofu, Medium Firm",Tofu,Dinner,3.0,Ounces,70,0,4,8,0,0.50,0,0,0,0
+03/15/2020,"Pork Shoulder Butt, Roasted",Pork,Dinner,3.0,Ounces,218,0,11.25,19.50,7.50,5.6,7.50,0,67.50,146.25
+03/15/2020,Hachimitsu Umeboshi,Plum,Dinner,2.0,Pieces,10,0,0,0,3,0,2,1,0,910
+03/15/2020,Japanese pickled cucumber,Pickle,Dinner,1.0,Ounce,10,0,0,0,0,0,0.67,0.67,0,123.33
+03/15/2020,Korean Soybean Paste,Sauce,Dinner,1.0,Tablespoon,33,0,1,1,5,n/a,0,0,0,560
+03/15/2020,melogold grapefruit 1/2 C.,Grapefruit,Snacks,2.0,Servings,120,0,0,2,18,0,16,2,0,0
+03/15/2020,"Bread, Long Italian",WhiteBread,Snacks,0.35,Ounce,21,0,0,0.53,4.20,0,0,0,0,45.50
+03/15/2020,"Peanut Butter, Creamy Unsalted",PeanutButter,Snacks,1.0,Tablespoon,70,0,5.55,2.59,2.96,1.11,1.11,0.74,0,46.21
+03/15/2020,"Apple, Medium",Apple,Snacks,154.0,Grams,72,0,2,0.36,19.6,n/a,n/a,3.30,n/a,1
+03/14/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/14/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Lunch,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/14/2020,Vinagre Del Jerez,Default,Lunch,0.5,Tablespoon,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+03/14/2020,Large Heirloom Tomato,Tomato,Lunch,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/14/2020,"Shallot, Raw",Shallot,Lunch,2.5,Tablespoons,18,0,0.3,0.63,4.20,0,0,0,0,3
+03/14/2020,"Bread, Long Italian",WhiteBread,Lunch,1.5,Ounces,90,0,0,2.25,18,0,0,0,0,195
+03/14/2020,Chorizo Iberico,Sausage,Lunch,0.85,Ounce,119,0,10.20,5.95,0,4.25,n/a,n/a,17.85,399.50
+03/14/2020,Crema de queso cabrales,Cheese,Lunch,0.35,Ounce,43,0,3.97,1.60,0.12,2.70,0.11,n/a,n/a,0.34
+03/14/2020,"Egg, Large",Egg,Lunch,2.0,Each,143,0,9.51,12.56,0.72,3.13,0.37,0,372,142
+03/14/2020,"Green Beans, Cooked",SnapBean,Dinner,0.5,Cup,22,0,0.18,1.18,4.92,0.4,2.27,2,0,0.63
+03/14/2020,"Broccoli, Chopped, Steamed",Broccoli,Dinner,1.0,Cup,55,0,0.64,3.71,11.20,0.11,2.17,5.15,0,63.96
+03/14/2020,"Rice, White, Medium Grain, Uncooked",Rice,Dinner,0.3,Cup,192,0,0,3.60,42,0,0,0,0,0
+03/14/2020,Fava beans,BeanGreen,Dinner,0.33,Cup,37,0,0.30,3.30,7.26,0.3,3.96,2.97,0,10.56
+03/14/2020,"Chicken Thighs, Boneless, Skinless, Raw",Chicken,Dinner,3.0,Ounces,91,0,n/a,15.19,0,0.76,0,0,72.14,102.51
+03/14/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Dinner,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/14/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/14/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/14/2020,Tahini,SpiceYellow,Dinner,1.0,Tablespoon,90,0,8,3.50,1.50,1.25,1,0.50,0,35
+03/14/2020,"Grapefruit, Pink, Large, 4 1/2""",Grapefruit,Snacks,1.0,Each,106,0,0.33,2.9,26.83,0.3,23.17,3.65,0,0
+03/14/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Snacks,1.0,Serving,120,0,1,24,3,0.50,1,0,30,60
+03/14/2020,"Peanuts, Raw",Peanut,Snacks,2.0,Teaspoons,34,0,3,1.57,0.98,0.42,0.24,0.52,0,1.9
+03/14/2020,"Pear, Small",Pear,Snacks,1.0,Each,86,0,0.18,0.56,22.88,0.1,14.50,4.59,0,1.48
+03/14/2020,"Beer, Blueberry",Beer,Snacks,5.0,Fluid ounces,64,0,0,0.68,5.27,0,0,0,0,5.93
+03/14/2020,"Cookies, White Chocolate Macadamia Nut",Cookie,Snacks,3.0,Pieces,225,0,13.50,3,24,6.75,18,0,30,210
+03/14/2020,"Chips, Potato, Cheddar & Sour Cream",PotatoChip,Snacks,5.0,Pieces,73,0,4.55,0.91,6.82,0.68,0.45,0.45,0,81.82
+03/13/2020,Sumo Citrus,Orange,Breakfast,1.0,Each,86,0,0,2,22,0,17,4,0,0
+03/13/2020,Fava beans,BeanGreen,Lunch,0.33,Cup,37,0,0.30,3.30,7.26,0.3,3.96,2.97,0,10.56
+03/13/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/13/2020,"Broccoli, Chopped, Steamed",Broccoli,Lunch,0.5,Cup,27,0,0.32,1.86,5.60,0.5,1.8,2.57,0,31.98
+03/13/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Lunch,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/13/2020,"Green Beans, Cooked",SnapBean,Lunch,0.5,Cup,22,0,0.18,1.18,4.92,0.4,2.27,2,0,0.63
+03/13/2020,"Chicken Thighs, Boneless, Skinless, Raw",Chicken,Lunch,5.0,Ounces,152,0,n/a,25.31,0,1.27,0,0,120.23,170.86
+03/13/2020,Vinagre Del Jerez,Default,Lunch,0.5,Tablespoon,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+03/13/2020,"Rice, White, Medium Grain, Uncooked",Rice,Lunch,0.25,Cup,160,0,0,3,35,0,0,0,0,0
+03/13/2020,Large Heirloom Tomato,Tomato,Lunch,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/13/2020,"Shallot, Raw",Shallot,Lunch,2.5,Tablespoons,18,0,0.3,0.63,4.20,0,0,0,0,3
+03/13/2020,Amontillado sherry,WineWhite,Dinner,2.0,Ounces,64,0,0,0,0,0,n/a,0,1,0
+03/13/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/13/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/13/2020,"Carrots, Cooked",Carrot,Dinner,0.15,Cup,8,0,0.4,0.18,1.92,0.1,0.81,0.70,0,13.57
+03/13/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.25,Each,7,0,0.2,0.19,1.63,0.1,0.74,0.30,0,0.70
+03/13/2020,raw oxtail bone in,Beef,Dinner,8.0,Ounces,166,0,9.7,18.14,0,2.27,0,0,0,0
+03/13/2020,Rigatoni,Pasta,Dinner,2.5,Ounces,249,0,0,11.19,49.74,0,2.49,2.49,0,0
+03/13/2020,Extra Fancy Unsalted Mixed Nuts,MixedNuts,Dinner,0.312,Dry Cup,200,0,17.47,6.24,8.74,2.50,2.50,2.50,0,0
+03/13/2020,"Pear, Red D'Anjou",Pear,Snacks,1.0,Each,97,0,n/a,n/a,26,n/a,n/a,n/a,n/a,n/a
+03/13/2020,"Whiskey, 90 Proof",Alcohol,Snacks,3.0,Fluid ounces,219,0,0,0,0,0,0,0,0,0.83
+03/12/2020,"Pear, Red D'Anjou",Pear,Breakfast,1.0,Each,97,0,n/a,n/a,26,n/a,n/a,n/a,n/a,n/a
+03/12/2020,Fava beans,BeanGreen,Lunch,0.33,Cup,37,0,0.30,3.30,7.26,0.3,3.96,2.97,0,10.56
+03/12/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/12/2020,"Broccoli, Chopped, Steamed",Broccoli,Lunch,0.5,Cup,27,0,0.32,1.86,5.60,0.5,1.8,2.57,0,31.98
+03/12/2020,Kabocha squash,Squash,Lunch,0.75,Cup,30,0,0.17,1.50,6,n/a,4.50,2.25,0,0
+03/12/2020,"Green Beans, Cooked",SnapBean,Lunch,0.5,Cup,22,0,0.18,1.18,4.92,0.4,2.27,2,0,0.63
+03/12/2020,"Chicken Thighs, Boneless, Skinless, Raw",Chicken,Lunch,4.0,Ounces,121,0,n/a,20.25,0,1.1,0,0,96.19,136.69
+03/12/2020,"Rice, White, Medium Grain, Uncooked",Rice,Lunch,0.25,Cup,160,0,0,3,35,0,0,0,0,0
+03/12/2020,Large Heirloom Tomato,Tomato,Lunch,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/12/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/12/2020,raw oxtail bone in,Beef,Dinner,8.0,Ounces,166,0,9.7,18.14,0,2.27,0,0,0,0
+03/12/2020,"Carrots, Cooked",Carrot,Dinner,0.15,Cup,8,0,0.4,0.18,1.92,0.1,0.81,0.70,0,13.57
+03/12/2020,"Celery, Diced",Celery,Dinner,0.33,Cup,5,0,0.6,0.23,0.99,0.1,0.61,0.53,0,26.66
+03/12/2020,"Shallot, Raw",Shallot,Dinner,2.5,Tablespoons,18,0,0.3,0.63,4.20,0,0,0,0,3
+03/12/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Dinner,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/12/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/12/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.25,Each,7,0,0.2,0.19,1.63,0.1,0.74,0.30,0,0.70
+03/12/2020,Chorizo Iberico,Sausage,Dinner,0.85,Ounce,119,0,10.20,5.95,0,4.25,n/a,n/a,17.85,399.50
+03/12/2020,"Bread, Long Italian",WhiteBread,Dinner,2.0,Ounces,120,0,0,3,24,0,0,0,0,260
+03/12/2020,Crema de queso cabrales,Cheese,Dinner,0.5,Ounce,61,0,5.67,2.28,0.17,3.86,0.16,n/a,n/a,0.48
+03/12/2020,Amontillado sherry,WineWhite,Dinner,2.0,Ounces,64,0,0,0,0,0,n/a,0,1,0
+03/12/2020,Vinagre Del Jerez,Default,Dinner,0.5,Tablespoon,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+03/12/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.5,Tablespoons,179,0,20.25,0,0,3,0,0,0,0
+03/12/2020,"Orange, Navel, large",Orange,Snacks,1.0,Each,79,0,0.24,1.47,20.19,0.3,13.68,3.50,0,2
+03/12/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Snacks,1.5,Servings,180,0,1.50,36,4.50,0.75,1.50,0,45,90
+03/11/2020,"Pear, Small",Pear,Breakfast,1.0,Each,86,0,0.18,0.56,22.88,0.1,14.50,4.59,0,1.48
+03/11/2020,Kabocha squash,Squash,Lunch,0.75,Cup,30,0,0.17,1.50,6,n/a,4.50,2.25,0,0
+03/11/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/11/2020,"Chicken Thighs, Boneless, Skinless, Raw",Chicken,Lunch,4.0,Ounces,121,0,n/a,20.25,0,1.1,0,0,96.19,136.69
+03/11/2020,Large Heirloom Tomato,Tomato,Lunch,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/11/2020,Fava beans,BeanGreen,Lunch,0.33,Cup,37,0,0.30,3.30,7.26,0.3,3.96,2.97,0,10.56
+03/11/2020,"Rice, White, Medium Grain, Uncooked",Rice,Lunch,0.25,Cup,160,0,0,3,35,0,0,0,0,0
+03/11/2020,"Green Beans, Cooked",SnapBean,Lunch,0.5,Cup,22,0,0.18,1.18,4.92,0.4,2.27,2,0,0.63
+03/11/2020,"Broccoli, Chopped, Steamed",Broccoli,Lunch,0.5,Cup,27,0,0.32,1.86,5.60,0.5,1.8,2.57,0,31.98
+03/11/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Lunch,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/11/2020,"Shallot, Raw",Shallot,Lunch,2.5,Tablespoons,18,0,0.3,0.63,4.20,0,0,0,0,3
+03/11/2020,Vinagre Del Jerez,Default,Lunch,0.5,Tablespoon,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+03/11/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Dinner,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/11/2020,Vinagre Del Jerez,Default,Dinner,0.5,Tablespoon,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+03/11/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/11/2020,"Shallot, Raw",Shallot,Dinner,2.5,Tablespoons,18,0,0.3,0.63,4.20,0,0,0,0,3
+03/11/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/11/2020,raw oxtail bone in,Beef,Dinner,8.0,Ounces,166,0,9.7,18.14,0,2.27,0,0,0,0
+03/11/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.25,Each,7,0,0.2,0.19,1.63,0.1,0.74,0.30,0,0.70
+03/11/2020,Amontillado sherry,WineWhite,Dinner,2.0,Ounces,64,0,0,0,0,0,n/a,0,1,0
+03/11/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.5,Tablespoons,179,0,20.25,0,0,3,0,0,0,0
+03/11/2020,"Carrots, Cooked",Carrot,Dinner,0.15,Cup,8,0,0.4,0.18,1.92,0.1,0.81,0.70,0,13.57
+03/11/2020,"Bread, Long Italian",WhiteBread,Dinner,2.0,Ounces,120,0,0,3,24,0,0,0,0,260
+03/11/2020,Crema de queso cabrales,Cheese,Dinner,0.4,Ounce,49,0,4.54,1.83,0.14,3.8,0.12,n/a,n/a,0.39
+03/11/2020,Chorizo Iberico,Sausage,Dinner,0.85,Ounce,119,0,10.20,5.95,0,4.25,n/a,n/a,17.85,399.50
+03/11/2020,"Celery, Diced",Celery,Dinner,0.33,Cup,5,0,0.6,0.23,0.99,0.1,0.61,0.53,0,26.66
+03/11/2020,Sumo Citrus,Orange,Snacks,1.0,Each,86,0,0,2,22,0,17,4,0,0
+03/11/2020,Gochujang,Peppers,Snacks,1.0,Tablespoon,33,0,0,0.74,7.39,0,4.44,0,0,317.92
+03/11/2020,"Cucumber, Persian Organic",Cucumber,Snacks,3.0,Each,16,0,0,0,2.67,n/a,n/a,1.33,n/a,n/a
+03/10/2020,"Pear, Small",Pear,Breakfast,1.0,Each,86,0,0.18,0.56,22.88,0.1,14.50,4.59,0,1.48
+03/10/2020,Fava beans,BeanGreen,Lunch,0.33,Cup,37,0,0.30,3.30,7.26,0.3,3.96,2.97,0,10.56
+03/10/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/10/2020,"Green Beans, Cooked",SnapBean,Lunch,0.66,Cup,29,0,0.23,1.56,6.50,0.5,2.99,2.64,0,0.83
+03/10/2020,"Rice, White, Medium Grain, Uncooked",Rice,Lunch,0.3,Cup,192,0,0,3.60,42,0,0,0,0,0
+03/10/2020,Kabocha squash,Squash,Lunch,1.5,Cups,60,0,0.35,3,12,n/a,9,4.50,0,0
+03/10/2020,"Chicken Thighs, Boneless, Skinless, Raw",Chicken,Lunch,5.0,Ounces,152,0,n/a,25.31,0,1.27,0,0,120.23,170.86
+03/10/2020,Large Heirloom Tomato,Tomato,Lunch,0.5,Each,3,0,0.2,0.9,0.39,n/a,n/a,n/a,n/a,n/a
+03/10/2020,Large Heirloom Tomato,Tomato,Dinner,1.0,Each,5,0,0.4,0.18,0.78,n/a,n/a,n/a,n/a,n/a
+03/10/2020,"Carrots, Cooked",Carrot,Dinner,0.15,Cup,8,0,0.4,0.18,1.92,0.1,0.81,0.70,0,13.57
+03/10/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.25,Each,7,0,0.2,0.19,1.63,0.1,0.74,0.30,0,0.70
+03/10/2020,Amontillado sherry,WineWhite,Dinner,2.0,Ounces,64,0,0,0,0,0,n/a,0,1,0
+03/10/2020,raw oxtail bone in,Beef,Dinner,6.0,Ounces,124,0,6.80,13.61,0,1.70,0,0,0,0
+03/10/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.5,Tablespoons,179,0,20.25,0,0,3,0,0,0,0
+03/10/2020,"Beans, Cannellini, Kidney, White",BeanWhite,Dinner,0.5,Cup,100,0,0,5,18,0,0,5,0,270
+03/10/2020,"Shallot, Raw",Shallot,Dinner,3.0,Tablespoons,22,0,0.3,0.75,5.4,0,0,0,0,3.60
+03/10/2020,Vinagre Del Jerez,Default,Dinner,0.5,Tablespoon,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+03/10/2020,Clementines,Orange,Dinner,1.0,Piece,40,0,0.50,1,10,0,7,2,0,1
+03/10/2020,"Broccoli, Chopped, Steamed",Broccoli,Dinner,1.5,Cups,82,0,0.96,5.57,16.80,0.16,3.25,7.72,0,95.94
+03/10/2020,Sumo Citrus,Orange,Snacks,1.0,Each,86,0,0,2,22,0,17,4,0,0
+03/10/2020,"Cucumber, Persian Organic",Cucumber,Snacks,4.0,Each,21,0,0,0,3.56,n/a,n/a,1.78,n/a,n/a
+03/10/2020,Gochujang,Peppers,Snacks,1.0,Tablespoon,33,0,0,0.74,7.39,0,4.44,0,0,317.92
+03/10/2020,"Whey Protein, Double Rich Chocolate, Gold Standard",MilkShake,Snacks,1.0,Serving,120,0,1,24,3,0.50,1,0,30,60
+03/09/2020,"Pear, Red D'Anjou",Pear,Breakfast,0.5,Each,49,0,n/a,n/a,13,n/a,n/a,n/a,n/a,n/a
+03/09/2020,"Oil, Olive, Extra Virgin",Oil,Lunch,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/09/2020,Fava beans,BeanGreen,Lunch,0.33,Cup,37,0,0.30,3.30,7.26,0.3,3.96,2.97,0,10.56
+03/09/2020,"Green Beans, Cooked",SnapBean,Lunch,0.66,Cup,29,0,0.23,1.56,6.50,0.5,2.99,2.64,0,0.83
+03/09/2020,"Rice, White, Medium Grain, Uncooked",Rice,Lunch,0.3,Cup,192,0,0,3.60,42,0,0,0,0,0
+03/09/2020,"Chicken Thighs, Boneless, Skinless, Raw",Chicken,Lunch,5.0,Ounces,152,0,n/a,25.31,0,1.27,0,0,120.23,170.86
+03/09/2020,Large Heirloom Tomato,Tomato,Lunch,0.5,Each,3,0,0.2,0.9,0.39,n/a,n/a,n/a,n/a,n/a
+03/09/2020,Kabocha squash,Squash,Lunch,1.5,Cups,60,0,0.35,3,12,n/a,9,4.50,0,0
+03/09/2020,Ground Pork (Raw),Pork,Dinner,2.0,Ounces,111,0,8.50,7.50,0,3.20,0,0,n/a,29
+03/09/2020,"Oil, Sesame, 100%",Oil,Dinner,0.25,Teaspoon,11,0,1.17,0,0,0.17,0,0,0,0
+03/09/2020,"Stock, Chicken, Prep from Recipe",Soup,Dinner,1.0,Cup,86,0,2.88,6.5,8.47,0.77,3.79,0,7.20,343.20
+03/09/2020,Cornstarch,SugarWhite,Dinner,0.25,Tablespoon,8,0,0,0,1.75,0,0,0,0,0
+03/09/2020,"Oil, Canola",Oil,Dinner,1.0,Teaspoon,41,0,4.67,0,0,0.34,0,0,0,0
+03/09/2020,"Scallions, Chopped, Organic",Leeks,Dinner,0.25,Cup,10,0,0,0,2,0,1,1,0,10
+03/09/2020,"Tofu, Silken/Soft",Tofu,Dinner,3.0,Ounces,54,0,1.68,6.92,2.18,0.30,0.69,1.29,0,17.80
+03/09/2020,"Egg, Large",Egg,Dinner,1.0,Each,72,0,4.75,6.28,0.36,1.56,0.19,0,186,71
+03/09/2020,Leeks,Leeks,Dinner,0.125,Each,7,0,0.3,0.17,1.57,0,0.43,0.20,0,2.23
+03/09/2020,"Bread, Long Italian",WhiteBread,Dinner,1.7,Ounces,102,0,0,2.55,20.40,0,0,0,0,221
+03/09/2020,"Onion, Yellow, Whole, Small",Onion,Dinner,0.25,Each,7,0,0.2,0.19,1.63,0.1,0.74,0.30,0,0.70
+03/09/2020,Amontillado sherry,WineWhite,Dinner,2.0,Ounces,64,0,0,0,0,0,n/a,0,1,0
+03/09/2020,"Oil, Olive, Extra Virgin",Oil,Dinner,1.0,Tablespoon,119,0,13.50,0,0,2,0,0,0,0
+03/09/2020,raw oxtail bone in,Beef,Dinner,5.0,Ounces,103,0,5.67,11.34,0,1.42,0,0,0,0
+03/09/2020,Large Heirloom Tomato,Tomato,Dinner,0.5,Each,3,0,0.2,0.9,0.39,n/a,n/a,n/a,n/a,n/a
+03/09/2020,"Carrots, Cooked",Carrot,Dinner,0.15,Cup,8,0,0.4,0.18,1.92,0.1,0.81,0.70,0,13.57
+03/09/2020,Crema de queso cabrales,Cheese,Dinner,0.5,Ounce,61,0,5.67,2.28,0.17,3.86,0.16,n/a,n/a,0.48
+03/09/2020,Sumo Citrus,Orange,Snacks,1.0,Each,86,0,0,2,22,0,17,4,0,0
+03/09/2020,"Cucumber, Persian Organic",Cucumber,Snacks,3.0,Each,16,0,0,0,2.67,n/a,n/a,1.33,n/a,n/a
+03/09/2020,Gochujang,Peppers,Snacks,1.0,Tablespoon,33,0,0,0.74,7.39,0,4.44,0,0,317.92
+03/15/2020,Google Fit Workout,GoogleFit,Exercise,95,minutes,802.0,0
+03/15/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,65.8779,0
+03/14/2020,Google Fit Workout,GoogleFit,Exercise,66,minutes,481.691,0
+03/14/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,101.351,0
+03/13/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,22.8039,0
+03/12/2020,Google Fit Workout,GoogleFit,Exercise,43,minutes,311.985,0
+03/12/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+03/11/2020,Google Fit Workout,GoogleFit,Exercise,45,minutes,380.065,0
+03/11/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+03/10/2020,Google Fit Workout,GoogleFit,Exercise,65,minutes,473.698,0
+03/10/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
+03/09/2020,Steps Calorie Bonus,Default,Exercise,-1,minutes,0.0,0
